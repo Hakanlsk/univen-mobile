@@ -64,7 +64,7 @@ export const HeroSection = () => {
               transition={{ duration: 0.5, delay: 0.5 }}
             >
               <Image
-                src="/appAssests/clipsai/clips1.jpg"
+                src="./appAssests/clipsai/clips1.jpg"
                 alt="App Screenshot 1"
                 fill
                 className="object-cover rounded-2xl brightness-110"
@@ -81,7 +81,7 @@ export const HeroSection = () => {
               transition={{ duration: 0.5, delay: 0.7 }}
             >
               <Image
-                src="/appAssests/flux/flux1.jpg"
+                src="./appAssests/flux/flux1.jpg"
                 alt="App Screenshot 2"
                 fill
                 className="object-cover rounded-2xl brightness-110"

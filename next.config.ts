@@ -1,17 +1,12 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: 'export',  // Enables static exports
+  output: 'export',
   images: {
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: '**',
-      },
-    ],
-    unoptimized: true, // Required for static export
+    unoptimized: true,
   },
   basePath: process.env.NODE_ENV === 'production' ? '/univen-mobile' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/univen-mobile' : '',
 };
 
 export default nextConfig;
