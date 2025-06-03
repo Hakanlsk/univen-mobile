@@ -31,27 +31,27 @@ export const PortfolioSection = () => {
         "A comprehensive AI video generation app with advanced features",
       screenshots: [
         {
-          src: "/appAssests/clipsai/clips1.jpg",
+          src: "./appAssests/clipsai/clips1.jpg",
           alt: "AI Video Generator Screenshot 1",
         },
         {
-          src: "/appAssests/clipsai/clips2.jpg",
+          src: "./appAssests/clipsai/clips2.jpg",
           alt: "AI Video Generator Screenshot 2",
         },
         {
-          src: "/appAssests/clipsai/clips3.jpg",
+          src: "./appAssests/clipsai/clips3.jpg",
           alt: "AI Video Generator Screenshot 3",
         },
         {
-          src: "/appAssests/clipsai/clips4.jpg",
+          src: "./appAssests/clipsai/clips4.jpg",
           alt: "AI Video Generator Screenshot 4",
         },
         {
-          src: "/appAssests/clipsai/clips5.jpg",
+          src: "./appAssests/clipsai/clips5.jpg",
           alt: "AI Video Generator Screenshot 5",
         },
         {
-          src: "/appAssests/clipsai/clips6.jpg",
+          src: "./appAssests/clipsai/clips6.jpg",
           alt: "AI Video Generator Screenshot 6",
         },
       ],
@@ -65,27 +65,27 @@ export const PortfolioSection = () => {
       description: "Create stunning AI-generated avatars and headshots",
       screenshots: [
         {
-          src: "/appAssests/flux/flux1.jpg",
+          src: "./appAssests/flux/flux1.jpg",
           alt: "Flux AI Screenshot 1",
         },
         {
-          src: "/appAssests/flux/flux2.jpg",
+          src: "./appAssests/flux/flux2.jpg",
           alt: "Flux AI Screenshot 2",
         },
         {
-          src: "/appAssests/flux/flux3.jpg",
+          src: "./appAssests/flux/flux3.jpg",
           alt: "Flux AI Screenshot 3",
         },
         {
-          src: "/appAssests/flux/flux4.jpg",
+          src: "./appAssests/flux/flux4.jpg",
           alt: "Flux AI Screenshot 4",
         },
         {
-          src: "/appAssests/flux/flux5.jpg",
+          src: "./appAssests/flux/flux5.jpg",
           alt: "Flux AI Screenshot 5",
         },
         {
-          src: "/appAssests/flux/flux6.jpg",
+          src: "./appAssests/flux/flux6.jpg",
           alt: "Flux AI Screenshot 6",
         },
       ],
