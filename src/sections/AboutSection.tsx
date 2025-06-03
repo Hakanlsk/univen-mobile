@@ -34,9 +34,9 @@ export const AboutSection = () => {
             About Me
           </h2>
           <p className="text-lg text-gray-600 mb-8 text-center">
-            Hi, I'm John Doe, a mobile app developer specializing in creating
-            fast, responsive, and intuitive applications. With expertise in
-            React Native and native development, I focus on delivering
+            Hi, I&apos;m John Doe, a mobile app developer specializing in
+            creating fast, responsive, and intuitive applications. With expertise
+            in React Native and native development, I focus on delivering
             exceptional user experiences through clean code and optimized
             performance.
           </p>

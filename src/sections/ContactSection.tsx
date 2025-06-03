@@ -46,7 +46,7 @@ export const ContactSection = () => {
             Get in Touch
           </h2>
           <p className="text-lg text-gray-600">
-            Let's discuss your next mobile app project
+            Let&apos;s discuss your next mobile app project
           </p>
         </motion.div>
 
